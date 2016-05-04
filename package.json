@@ -1,0 +1,18 @@
+{
+  "name": "JSProjects",
+  "version": "0.0.0",
+  "description": "Boof's end of year JS projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angularjs": "0.0.1",
+    "cordova": "^6.1.1",
+    "enchant": "^0.2.0",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6"
+  }
+}
